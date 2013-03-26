@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/00_normal_use.t
+t/10_errors.t
+lib/MR/AsyncHTTP.pm
